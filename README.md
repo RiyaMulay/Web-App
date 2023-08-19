@@ -1,5 +1,5 @@
 <p align="center">
-<img src="./src/images/app_homepage.png" width="100%">
+<img src="D:/PICT/Projects/weatherApp-Reactjs-master/src/images/app_homepage.png" width="100%">
 </p>
 
 <p align="center">
